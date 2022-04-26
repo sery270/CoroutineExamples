@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3015d06-a2e3-4c0a-bc08-bd1013541ab0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/androidTest/java/com/example/diffutilbycoroutine/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/java/com/example/diffutilbycoroutine/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/app/src/test/java/com/example/diffutilbycoroutine/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiffUtilbyCoroutine/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28KYRd8q60Lm0amzTM9MY22dqP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3015d06-a2e3-4c0a-bc08-bd1013541ab0" name="Default Changelist" comment="" />
+      <created>1650966739584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650966739584</updated>
+    </task>
+    <servers />
+  </component>
+</project>
