@@ -6,6 +6,27 @@ CoroutineExamples는 [Android 권장 비동기 처리 방식](https://developer.
   <img height="300" src="https://user-images.githubusercontent.com/59532818/164753787-b77c20d0-8b11-4cd3-a9c4-3336fb45802b.png">
 </p>
 
+### 🙂 2022/04/26 화
+------
+- [`RecyclerView.Adapter`에서 `DiffUtil` 작업을 코루틴을 활용하여 성능을 개선해보는 프로젝트](https://github.com/sery270/CoroutineExamples/tree/main/DiffUtilbyCoroutine)를 기획 및 세팅했다 
+- kts로 gradle을 세팅하고, [빌드에 필요한 정보들을(dependency, 앱 정보 등등) 정리해놓은 buildSrc](https://github.com/sery270/CoroutineExamples/tree/main/buildSrc)를 추가했다. 앞으로 새 프로젝트 생성시 import module해서 사용하면 된다. 
+    ```
+    # buildSrc import 및 kts 세팅하기 
+    
+    1. 기존 gradle 파일들을 모두 kts로 변환한다. 기존 파일에 .kts를 붙인 후 내용을 변경한다. 
+      - build.gradle.kts (project)
+      - build.gradle.kts (app)
+      - build.gradle.kts (buildSrc) (import module 이후에 추가되니, 추가 생성하지 않는다.) 
+      - settings.gradle.kts (buildSrc)
+
+    3. import module로 buildSrc를 import 한다. 
+      - 에러가 발생하면 settings.gradle.kts의 내용을 확인해서 include(":buildSrc")가 있는지 확인한다. 있다면 제거한다. 
+ 
+    4. 필요한 dependency를 추가한다. 
+
+    5. 앱 이름 등등 프로젝트에 맞게 적절히 커스텀한다. 
+    ```
+
 ### 🙂 2022/04/25 월
 ------
 - suspend lambda, WorkManager, CoroutineWorker 에 대해 공부하고 테스트 코드를 작성해보았다. 
