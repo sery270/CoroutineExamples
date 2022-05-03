@@ -8,6 +8,13 @@ CoroutineExamples는 [Android 권장 비동기 처리 방식](https://developer.
 
 ### 🙂 2022/04/26 화
 ------
+- Coroutine 소개해주는 2019 년도 구글 아요를 보고 정리해보았다 ! 구글 최고 😎😎
+
+**📝 공부 흔적** 
+- [✏️포스팅: Understand Kotlin Coroutines on Android (Google I/O'19)](https://velog.io/@sery270/NOTE-Understand-Kotlin-Coroutines-on-Android-Google-IO19)
+
+### 🙂 2022/04/26 화
+------
 - [`RecyclerView.Adapter`에서 `DiffUtil` 작업을 코루틴을 활용하여 성능을 개선해보는 프로젝트](https://github.com/sery270/CoroutineExamples/tree/main/DiffUtilbyCoroutine)를 기획 및 세팅했다 
 - kts로 gradle을 세팅하고, [빌드에 필요한 정보들을(dependency, 앱 정보 등등) 정리해놓은 buildSrc](https://github.com/sery270/CoroutineExamples/tree/main/buildSrc)를 추가했다. 앞으로 새 프로젝트 생성시 import module해서 사용하면 된다. 
     ```
