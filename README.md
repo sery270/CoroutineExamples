@@ -6,7 +6,7 @@ CoroutineExamples는 [Android 권장 비동기 처리 방식](https://developer.
   <img height="300" src="https://user-images.githubusercontent.com/59532818/164753787-b77c20d0-8b11-4cd3-a9c4-3336fb45802b.png">
 </p>
 
-### 🙂 2022/04/26 화
+### 🙂 2022/05/03 화
 ------
 - Coroutine 소개해주는 2019 년도 구글 아요를 보고 정리해보았다 ! 구글 최고 😎😎
 
