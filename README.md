@@ -6,6 +6,23 @@ CoroutineExamples는 [Android 권장 비동기 처리 방식](https://developer.
   <img height="300" src="https://user-images.githubusercontent.com/59532818/164753787-b77c20d0-8b11-4cd3-a9c4-3336fb45802b.png">
 </p>
 
+### 🙂 2022/05/30 월
+------
+- **CoroutineBuilder**는 코루틴을 만드는 함수이다.
+    - `runBlocking` : 코루틴을 만들고 코드 불록 수행이 끝날 때 까지 `runBlocking` 다음 코드를 수행하지 못하게 Blocking 한다.
+    - `launch` : 할 수 있다면 다른 코루틴 코드를 같이 수행시키는 코루틴 빌더이다.
+        - `runBlocking` vs `launch`
+            - `runBlocking`은 내부 코드가 실행될 때 까지 기다리고, `launch`는 기다리지 않는다.
+- **CoroutineBuilder**의 수신 객체는 코루틴이다.
+    - 수신 객체 : extention 람다이다.
+- 코틀린 코루틴을 사용하는 모든 곳에는 **CoroutineScope**가 있다. 코루틴의 시작은 **CoroutineScope**이다.
+- **CoroutineContext**는 코루틴을 제대로 처리하기 위한 정보이다.
+    - **CoroutineContext**는 **CoroutineContext**를 가지고 있다.
+- `delay` : 해당 스레드를 다른 코루틴이 사용할 수 있게, 명시된 시간 만큼 양보한다.
+    - `sleep` vs `delay`
+        - `sleep`은 쉬는 동안 다른 코루틴에게 양보하지 않지만, `delay`는 쉬는 동안 다른 코루틴에게 양보한다.
+- **코틀린 코루틴은 특별하게 계층 구조**를 가지고 있다. 따라서 부모 코루틴은 자식 코루틴이 완료되기 전까지는 종료되지 않는다. 또한 부모 코루틴이 취소되면 자식 코루틴이 자동으로 취소된다.
+
 ### 🙂 2022/05/13 금
 ------
 #### 동시성
